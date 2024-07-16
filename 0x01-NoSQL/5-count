@@ -1,0 +1,2 @@
+// Counts all documents at the school collection//
+db.school.find().count();
